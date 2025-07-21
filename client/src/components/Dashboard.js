@@ -1,0 +1,1 @@
+export default function Dashboard() { return <div className='text-2xl font-bold text-blue-600'>Lydell Tech Full Platform Ready</div>; }
