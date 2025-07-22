@@ -1,0 +1,1 @@
+exports.signup = (req, res) => res.send('Signup logic'); exports.login = (req, res) => res.send('Login logic');
